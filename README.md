@@ -1,8 +1,8 @@
 # 💻 João Pedro
 
-**`Desenvolvedor Backend`**
+**`Desenvolvedor Full-Stack`**
 
-Me chamo João Pedro, tenho 19 anos e sou natural de Salvador/BA. Concluí o ensino médio no Colégio Modelo Luís Eduardo Magalhães e atualmente estou cursando Ciência da Computação na faculdade Estácio de Sá. Sou um Desenvolvedor de Software com foco em Java, buscando a primeira oportunidade na área. 
+Me chamo João Pedro, tenho 19 anos e sou natural de Salvador/BA. Concluí o ensino médio no Colégio Modelo Luís Eduardo Magalhães e atualmente estou cursando Ciência da Computação na faculdade Estácio de Sá. Sou um Desenvolvedor de Software Full-Stack buscando a primeira oportunidade na área.
 
 <p align="left">
     <a href="https://www.youtube.com/@thispedroo">
@@ -12,7 +12,7 @@ Me chamo João Pedro, tenho 19 anos e sou natural de Salvador/BA. Concluí o ens
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCUn02Hf55XSUy88_6txF1Xw?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
-    <a href="https://www.youtube.com/@larissakich">
+    <a href="https://www.youtube.com/@thispedroo">
         <img 
             alt="youtube views" 
             title="Vizualizações no YouTube" 
