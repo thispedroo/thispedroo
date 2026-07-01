@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Full-Stack`**
 
-Me chamo João Pedro, tenho 19 anos e sou natural de Salvador/BA. Concluí o ensino médio no Colégio Modelo Luís Eduardo Magalhães e atualmente estou cursando Ciência da Computação na faculdade Estácio de Sá. Sou um Desenvolvedor de Software Full-Stack buscando a primeira oportunidade na área.
+Me chamo João Pedro, tenho 20 anos e sou natural de Salvador/BA. Concluí o ensino médio no Colégio Modelo Luís Eduardo Magalhães e atualmente estou cursando o 4º semestre em Ciência da Computação na faculdade Estácio de Sá. Sou um Desenvolvedor de Software Full-Stack buscando a primeira oportunidade na área.
 
 <p align="left">
     <a href="https://www.youtube.com/@thispedroo">
@@ -103,7 +103,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-origina
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=thispedroo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=thispedroo&show_icons=true&theme=tokyonight&locale=pt-br" 
   />
 
 <img 
