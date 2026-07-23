@@ -33,7 +33,6 @@ Meu objetivo é conquistar minha primeira oportunidade na área e continuar cres
 - HTML5
 - CSS3
 - JavaScript
-- PHP
 - Python
 
 <hr>
