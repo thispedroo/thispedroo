@@ -29,6 +29,7 @@ Buscando minha primeira oportunidade na área de TI para aplicar essa base em pr
 ## Atualmente estudando
 
 - Java
+- Spring Boot
 - HTML5
 - CSS3
 - JavaScript
