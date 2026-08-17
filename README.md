@@ -1,6 +1,6 @@
 <h1 align="center">Olá, eu sou o João Pedro</h1>
 
-<p align="center">Desenvolvedor Full-Stack em formação • Java • HTML • CSS • JavaScript • PHP • Python</p>
+<p align="center">Desenvolvedor Full-Stack em formação • Java • HTML • CSS • JavaScript • Python</p>
 
 <hr>
 
