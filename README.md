@@ -1,16 +1,16 @@
 <h1 align="center">Olá, eu sou o João Pedro</h1>
 
-<p align="center">Desenvolvedor Full-Stack em formação • Java • HTML • CSS • JavaScript • Python</p>
+<p align="center">Desenvolvedor Full-Stack | Java • HTML • CSS • JavaScript • Python</p>
 
 <hr>
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de Ciência da Computação e apaixonado por desenvolvimento Full-Stack.
+Desenvolvedor Full-Stack com foco em Java + Spring Boot, experiência prática em Python, JavaScript, HTML/CSS e banco relacionais (MySQL, PostgreSQL).
 
-Atualmente curso o 4º semestre na Estácio de Sá e busco escrever código limpo, organizado e seguindo boas práticas, enquanto sigo evoluindo como desenvolvedor.
+Concilio estudos com trabalho, o que reforçou disciplina e capacidade de resolver problemas sob pressão.
 
-Meu objetivo é conquistar minha primeira oportunidade na área e continuar crescendo como profissional.
+Buscando minha primeira oportunidade na área de TI para aplicar essa base em projetos reais.
 
 <hr>
 
