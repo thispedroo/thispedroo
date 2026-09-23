@@ -6,7 +6,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Desenvolvedor Back-End, com foco em Java + Spring Boot, tenho experiência com Python e SQLite.
+Desenvolvedor Back-End, com foco em Java + Spring Boot, também com experiência com Python e SQLite.
 
 Concilio estudos com trabalho, o que reforçou disciplina e capacidade de resolver problemas sob pressão.
 
