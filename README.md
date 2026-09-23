@@ -1,12 +1,12 @@
 <h1 align="center">Olá, eu sou o João Pedro</h1>
 
-<p align="center">Desenvolvedor Full-Stack | Java • HTML • CSS • JavaScript • Python</p>
+<p align="center">Desenvolvedor Back-End | Java • Spring Boot • Python • SQLite</p>
 
 <hr>
 
 ## 👨‍💻 Sobre mim
 
-Desenvolvedor Full-Stack com foco em Java + Spring Boot, experiência prática em Python, JavaScript, HTML/CSS e banco relacionais (MySQL, PostgreSQL).
+Desenvolvedor Back-End, com foco em Java + Spring Boot, tenho experiência com Python e SQLite.
 
 Concilio estudos com trabalho, o que reforçou disciplina e capacidade de resolver problemas sob pressão.
 
@@ -30,10 +30,8 @@ Buscando minha primeira oportunidade na área de TI para aplicar essa base em pr
 
 - Java
 - Spring Boot
-- HTML5
-- CSS3
-- JavaScript
 - Python
+- SQLite
 
 <hr>
 
